@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kumar 
 
-🎓 3rd-year Computer Science Engineering student | 🔐 Security Engineer | 💻 Aspiring Backend Developer  
+🎓 Final-year Computer Science Engineering student | 🔐 Security Engineer | 💻 Aspiring Backend Developer  
 
 I’m passionate about building **scalable backend systems**, **REST APIs**, and **real-world problem-solving MERN applications**.  
 Currently exploring advanced **blockchain + cryptography** concepts in my academic projects and strengthening my backend expertise.  
@@ -44,7 +44,7 @@ Currently exploring advanced **blockchain + cryptography** concepts in my academ
 ## 📊 GitHub Stats  
 
 ![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![Top Langs](https://github.com/Balakumar022005)  
 
 ---
 
