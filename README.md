@@ -43,8 +43,8 @@ Currently exploring advanced **blockchain + cryptography** concepts in my academ
 
 ## 📊 GitHub Stats  
 
-![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Balakumar022005&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Balakumar022005&layout=compact&theme=radical)
 
 ---
 
