@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kumar 
 
-🎓 Final-year Computer Science Engineering student | 🔐 Security Engineer | 💻 Aspiring Backend Developer  
+🎓 Final-year Computer Science Engineering student | 🔐 Product Developer | 💻 Software Developer
 
 I’m passionate about building **scalable backend systems**, **REST APIs**, and **real-world problem-solving MERN applications**.  
 Currently exploring advanced **blockchain + cryptography** concepts in my academic projects and strengthening my backend expertise.  
